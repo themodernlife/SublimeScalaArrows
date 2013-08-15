@@ -6,4 +6,5 @@ Adds some fancy unicode character completions
 
 To install, use Package Control and add this git repository
 
-Package Control -> Add Repository -> https://github.com/themodernlife/SublimeScalaArrows
+* Package Control -> Add Repository -> https://github.com/themodernlife/SublimeScalaArrows
+* Package Control -> Install Package -> SublimeScalaArrows
